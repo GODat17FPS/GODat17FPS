@@ -1,29 +1,18 @@
+# Anubhav Sarkar  
+*Backend Engineering | Systems & AWS | Calm Builder*
 
 ---
 
-# 🔥 **README 2 — AESTHETIC + INSANE UI (PROFILE BADGE LAYOUT)**
+### Two Accounts — One Journey
 
-```md
-<h1 align="center">⚡ Anubhav Sarkar ⚡</h1>
-
-<p align="center">Backend Engineer • Scalable Systems • Cloud Architecture</p>
-
----
-
-<div align="center">
-
-### ⚡ My Developer Identity
-
-| 🔥 Old Era — `GODat17FPS` | 🌱 New Era — `rikalt` |
+| Past Skill Growth (`GODat17FPS`) | Present Consistency (`rikalt`) |
 |---|---|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/GODat17FPS?theme=dark&ext=heatmap) | ![LeetCode Stats](https://leetcard.jacoblin.cool/rikalt?theme=dark&extension=activity&border=0) |
-
-</div>
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/GODat17FPS?theme=light&ext=heatmap) | ![LC Activity](https://leetcard.jacoblin.cool/rikalt?theme=light&extension=activity&border=0) |
 
 ---
 
-### 🧰 My Stack  
+### Tech Summary  
 ```text
-Java • Python • JavaScript
-Spring Boot • Redis • Kafka • MySQL  
-AWS (MSK, EC2, RDS, S3, Secrets Manager)
+Java | Python | JS  
+Spring Boot | MySQL | Kafka | Redis  
+AWS Infrastructure
