@@ -1,37 +1,37 @@
 <h1 align="center">👋 Hi, I'm Anubhav Sarkar</h1>
 
 <p align="center">
-💻 Software Engineer • Backend Specialist • Distributed Systems & Cloud Enthusiast  
+💻 Software Engineer • Backend Specialist • Distributed Systems & Cloud Engineering  
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I love building scalable backend systems, designing resilient architectures, and solving performance-critical problems.  
-My work & learning revolve around distributed systems, cloud infra, and high-volume data pipelines.  
-Every commit, every problem solved, and every system improved is a step toward mastery.
+I love working on scalable backend systems & high-performance architectures.  
+Challenging problems excite me, and every solution makes me sharper.  
+I learn, build, break, optimize — then build again, better.
 
 ---
 
-### 🔥 Skills & Technical Superpowers
+### 🔥 Technical Skills & Strengths
 
 #### 💻 Programming Languages
-- **Java**, **JavaScript**, **Python** :contentReference[oaicite:1]{index=1}
+- Java, JavaScript, Python
 
-#### ⚙️ Tech & Tools I Work With
-- **Spring Boot**, **MySQL**, **Redis**, **Kafka**, **React**  
-- **AWS Stack:** MSK, S3, RDS, Secrets Manager, EC2, ALB :contentReference[oaicite:2]{index=2}
+#### ⚙️ Frameworks, Tools & Platforms
+- Spring Boot • MySQL • Redis • Kafka • React  
+- AWS (MSK, S3, RDS, Secrets Manager, ALB, EC2)
 
 ---
 
-### 📈 LeetCode & Problem Solving
+### 📈 LeetCode Progress — *`rikalt`*
 
-| Stats | Streak | Contest |
-|------|--------|---------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark) | ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&extension=activity) | ![LeetCode Contest](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&ext=contest) |
+| Overall Stats | Activity | Contest Info |
+|---------------|----------|--------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/rikalt?theme=dark) | ![LC Activity](https://leetcard.jacoblin.cool/rikalt?theme=dark&extension=activity) | ![LC Contest](https://leetcard.jacoblin.cool/rikalt?theme=dark&ext=contest) |
 
-> One problem a day keeps stagnation away.
+> Grinding one question at a time — consistency beats talent.
 
 ---
 
@@ -42,12 +42,12 @@ Every commit, every problem solved, and every system improved is a step toward m
 
 ---
 
-### 🏁 Final Words
+### 🏁 Last Line
 
-> I don't just build systems — I scale them.  
-> I don't just solve problems — I optimize them.  
-> I don't just code — I improve.
+> I don't just code — I scale, optimize & solve.  
+> The goal is not to write code…  
+> **The goal is to write *better* code.**
 
 ---
 
-⭐ If you like this profile — consider dropping a star on my repositories!
+⭐ If you like my work, consider ✨ starring my repositories!
