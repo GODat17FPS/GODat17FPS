@@ -1,53 +1,38 @@
-<h1 align="center">👋 Hi, I'm Anubhav Sarkar</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=460&lines=Hey%2C+I'm+Anubhav+Sarkar+👋;Backend+Engineer+%7C+System+Design+Mindset;Breaking+code+to+build+better+ones!" /></h1>
 
 <p align="center">
-💻 Software Engineer • Backend Specialist • Distributed Systems & Cloud Engineering  
+🌌 Crafting scalable backends • Optimizing systems • Living inside distributed compute  
 </p>
 
 ---
 
-### 🚀 About Me
+## ⚡ Tech Arsenal  
+<div align="center">
+  
+| Languages | Systems | Cloud | Tools |
+|---|---|---|---|
+| Java · JavaScript · Python | Spring Boot · Kafka · Redis · MySQL | AWS · MSK · RDS · S3 · EC2 | Git · Docker |
 
-I love working on scalable backend systems & high-performance architectures.  
-Challenging problems excite me, and every solution makes me sharper.  
-I learn, build, break, optimize — then build again, better.
-
----
-
-### 🔥 Technical Skills & Strengths
-
-#### 💻 Programming Languages
-- Java, JavaScript, Python
-
-#### ⚙️ Frameworks, Tools & Platforms
-- Spring Boot • MySQL • Redis • Kafka • React  
-- AWS (MSK, S3, RDS, Secrets Manager, ALB, EC2)
+</div>
 
 ---
 
-### 📈 LeetCode Progress — *`rikalt`*
+## 🧠 LeetCode Progress
 
-| Overall Stats | Activity | Contest Info |
-|---------------|----------|--------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/rikalt?theme=dark) | ![LC Activity](https://leetcard.jacoblin.cool/rikalt?theme=dark&extension=activity) | ![LC Contest](https://leetcard.jacoblin.cool/rikalt?theme=dark&ext=contest) |
-
-> Grinding one question at a time — consistency beats talent.
+### 🏆 Core Skills — **Old Account `GODat17FPS`**  
+> Foundation of problem-solving, ranked, high-vol activity  
+![LeetCode Stats](https://leetcard.jacoblin.cool/GODat17FPS?theme=dark&ext=heatmap)
 
 ---
 
-### 🌍 Connect With Me
-
-📩 **Email:** anubhavsarkar44@gmail.com  
-🔗 **LinkedIn:** https://linkedin.com/in/anubhavsarkar44  
+### 🔥 Current Grind — **New Account `rikalt`** *(no rank shown)*  
+![LC Activity](https://leetcard.jacoblin.cool/rikalt?theme=dark&extension=activity&radius=10)
 
 ---
 
-### 🏁 Last Line
+## 🌙 Aesthetic Summary  
 
-> I don't just code — I scale, optimize & solve.  
-> The goal is not to write code…  
-> **The goal is to write *better* code.**
-
----
-
-⭐ If you like my work, consider ✨ starring my repositories!
+```diff
++ Scales systems with calm precision
++ Writes code the way jazz sounds
++ Breaks limitations like bugs break builds
