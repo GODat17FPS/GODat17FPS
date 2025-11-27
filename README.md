@@ -1,33 +1,54 @@
-## 💻 Lofi Dev Portfolio: Anubhav Sarkar
+<!-- BACKGROUND (Pixel Lofi GIF Wallpaper) -->
+<div style="background:url('https://i.gifer.com/7VE.gif'); background-size:cover; background-position:center; padding:50px 0;">
 
-### 📻 About Me
+<div align="center" style="backdrop-filter: blur(6px); background:rgba(0,0,0,0.55); padding:35px 40px; border-radius:18px; width:85%; margin:auto;">
 
-Hi! I'm a developer focused on building efficient, scalable solutions and constantly honing my problem-solving skills. This profile serves as a minimalistic, lo-fi hub for my coding journey and expertise.
-
-| **Connect** | **Details** |
-| :--- | :--- |
-| 📧 Email | [cite_start][anubhavsarkar44@gmail.com](mailto:anubhavsarkar44@gmail.com) [cite: 2] |
-| 🔗 LinkedIn | [cite_start][anubhavsarkar44](https://linkedin.com/in/anubhavsarkar44) [cite: 2] |
-| 📞 Phone | (+91) [cite_start]9123345213 [cite: 2] |
+# **ANUBHAV SARKAR**
+### backend ▪ systems ▪ scalability ▪ cloud  
+<br>
 
 ---
 
-### 🕹️ LeetCode Stats: The Legacy & The Present
+<!-- DASHBOARD GRID — EVERYTHING IN ONE PLACE -->
+<table width="100%">
+<tr>
 
-This section tracks my journey through competitive programming.
+<td width="33%" align="center">
 
-#### **I. The Legacy: `Godat17FPS` (Archived Data)**
+### 🧠 Skills  
+Java · JS · Python  
+Spring Boot · Kafka · Redis · MySQL  
+AWS: MSK · EC2 · RDS · ALB · S3
 
-| Metric | Value |
-| :--- | :--- |
-| **Total Problems Solved** | **[INSERT GODAT TOTAL COUNT HERE]** |
-| **LeetCode Rating** | **[INSERT GODAT RATING HERE]** |
-| **Focus** | *[Optional: e.g., Early focus on Data Structures & Algorithms]* |
+</td>
 
-#### **II. The Present: `RikAlt` (Dynamic Progress)**
+<td width="34%" align="center">
 
-**Dynamic LeetCode Heatmap**
-*(This image will automatically update daily once you set up the card generator/GitHub Action!)*
+### 🧱 GODat17FPS  
+**485 solved · rating 1629**  
+<img src="https://leetcard.jacoblin.cool/GODat17FPS?theme=dark&font=baloo&radius=12&border=0" width="280"/>
 
-```markdown
-![RikAlt LeetCode Heatmap](https://leetcard.yuni.im/RikAlt?theme=dark&ext=activity)
+</td>
+
+<td width="33%" align="center">
+
+### 🎧 rikalt — Present  
+*(heatmap only)*  
+<img src="https://leetcard.jacoblin.cool/rikalt?ext=heatmap&theme=dark&border=0&radius=12&show_rank=false" width="280"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+### 📬 Contact  
+LinkedIn · https://linkedin.com/in/anubhavsarkar44  
+Email · anubhavsarkar44@gmail.com  
+
+<br>
+
+</div>
+
+</div>
