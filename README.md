@@ -1,54 +1,104 @@
-<!-- BACKGROUND (Pixel Lofi GIF Wallpaper) -->
-<div style="background:url('https://i.gifer.com/7VE.gif'); background-size:cover; background-position:center; padding:50px 0;">
+<div align="center">
 
-<div align="center" style="backdrop-filter: blur(6px); background:rgba(0,0,0,0.55); padding:35px 40px; border-radius:18px; width:85%; margin:auto;">
+# anubhav sarkar
 
-# **ANUBHAV SARKAR**
-### backend ▪ systems ▪ scalability ▪ cloud  
-<br>
+**backend · systems · scalability · cloud**
+
+</div>
 
 ---
 
-<!-- DASHBOARD GRID — EVERYTHING IN ONE PLACE -->
-<table width="100%">
+## 🛠 stack
+
+<table>
 <tr>
+<td width="33%">
 
-<td width="33%" align="center">
+**core**
 
-### 🧠 Skills  
-Java · JS · Python  
-Spring Boot · Kafka · Redis · MySQL  
-AWS: MSK · EC2 · RDS · ALB · S3
-
-</td>
-
-<td width="34%" align="center">
-
-### 🧱 GODat17FPS  
-**485 solved · rating 1629**  
-<img src="https://leetcard.jacoblin.cool/GODat17FPS?theme=dark&font=baloo&radius=12&border=0" width="280"/>
+Java, JavaScript, Python  
+Spring Boot, Node.js
 
 </td>
+<td width="33%">
 
-<td width="33%" align="center">
+**infrastructure**
 
-### 🎧 rikalt — Present  
-*(heatmap only)*  
-<img src="https://leetcard.jacoblin.cool/rikalt?ext=heatmap&theme=dark&border=0&radius=12&show_rank=false" width="280"/>
+Kafka, Redis, MySQL  
+PostgreSQL, Docker
 
 </td>
+<td width="33%">
 
+**cloud**
+
+AWS MSK, EC2, RDS  
+ALB, S3, Lambda
+
+</td>
 </tr>
 </table>
 
 ---
 
-### 📬 Contact  
-LinkedIn · https://linkedin.com/in/anubhavsarkar44  
-Email · anubhavsarkar44@gmail.com  
+## 💡 problem solving
+
+<table>
+<tr>
+<td width="50%">
+
+### ◆ GODat17FPS
+*primary account*
 
 <br>
 
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/Solved-485-brightgreen?style=for-the-badge&logo=leetcode" />
+<img src="https://img.shields.io/badge/Rating-1629-orange?style=for-the-badge&logo=leetcode" />
+</p>
 
+<p align="center">
+<code>Knight · Top 15%</code>
+</p>
+
+</td>
+<td width="50%">
+
+### ◇ [active session]
+*current workspace*
+
+<br>
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/rikalt?theme=dark&font=ubuntu&ext=heatmap&border=0" width="100%" />
+</p>
+
+<p align="center">
+<sub>consistent practice, evolving patterns</sub>
+</p>
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📫 connect
+
+<p align="center">
+<a href="https://linkedin.com/in/anubhavsarkar44">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:anubhavsarkar44@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://leetcode.com/GODat17FPS">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
+
+---
+
+<div align="center">
+<sub>building systems that scale</sub>
 </div>
